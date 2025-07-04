@@ -1,1 +1,1 @@
-<p>This repository is used to show the use of Graphql</p>
+<p>This repository is used to show the use of Graphql to fetch characetrs from a Rick and Morty API</p>

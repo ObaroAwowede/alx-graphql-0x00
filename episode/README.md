@@ -1,0 +1,1 @@
+<p>This repository is used to show the use of Graphql in fetching episodes form a Rick and Morty API</p>
